@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1592234622 source:c:\users\indian\desktop\c++\contact_manager_\main.cpp
+	<iostream>
+	"contact.h"
+	<conio.h>
+
+1591710908 c:\users\indian\desktop\c++\contact_manager_\contact_tree.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1591967001 c:\users\indian\desktop\c++\contact_manager_\linked_list.h
+	<iostream>
+	<string.h>
+
+1591473620 c:\users\indian\desktop\c++\contact_manager_\using_string.h
+	<iostream>
+	<string.h>
+
+1592234765 c:\users\indian\desktop\c++\contact_manager_\contact.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	"number_tree.h"
+	"linked_list.h"
+	<unistd.h>
+	<fstream>
+	<ctime>
+
+1592218531 c:\users\indian\desktop\c++\contact_manager_\number_tree.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1592665311 source:c:\users\indian\desktop\c++\main projects\contact_manager_\main.cpp
+	<iostream>
+	"contact.h"
+	<conio.h>
+
+1592682863 c:\users\indian\desktop\c++\main projects\contact_manager_\contact.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	"number_tree.h"
+	"linked_list.h"
+	<unistd.h>
+	<fstream>
+	<ctime>
+
+1592218531 c:\users\indian\desktop\c++\main projects\contact_manager_\number_tree.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1591967001 c:\users\indian\desktop\c++\main projects\contact_manager_\linked_list.h
+	<iostream>
+	<string.h>
+
+1594271376 source:c:\users\barath\onedrive\desktop\new folder\contact_manager_ (3)\contact_manager_\main.cpp
+	<iostream>
+	"contact.h"
+	<conio.h>
+	<string.h>
+
+1594270901 c:\users\barath\onedrive\desktop\new folder\contact_manager_ (3)\contact_manager_\contact.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	"number_tree.h"
+	"linked_list.h"
+	<unistd.h>
+	<fstream>
+	<ctime>
+
+1594270901 c:\users\barath\onedrive\desktop\new folder\contact_manager_ (3)\contact_manager_\number_tree.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1594020461 c:\users\barath\onedrive\desktop\new folder\contact_manager_ (3)\contact_manager_\linked_list.h
+	<iostream>
+	<string.h>
+
+1595244773 source:c:\users\indian\desktop\c++\main projects\contact_manager_ (3)\contact_manager_\main.cpp
+	<iostream>
+	"contact.h"
+	<conio.h>
+	<string.h>
+
+1595247979 c:\users\indian\desktop\c++\main projects\contact_manager_ (3)\contact_manager_\contact.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	"number_tree.h"
+	"linked_list.h"
+	<unistd.h>
+	<fstream>
+	<ctime>
+
+1595162554 c:\users\indian\desktop\c++\main projects\contact_manager_ (3)\contact_manager_\number_tree.h
+	<iostream>
+	<string.h>
+	<windows.h>
+
+1595162204 c:\users\indian\desktop\c++\main projects\contact_manager_ (3)\contact_manager_\linked_list.h
+	<iostream>
+	<string.h>
+
