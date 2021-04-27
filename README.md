@@ -6,12 +6,18 @@ The project support keydown search option(rapid search on every key press).
 gcc compiler
 ```
 # Installation
-- Options 1 : Download gcc compiler
 ```
   git clone https://github.com/rakshith-crm/Contact-Manager-Trie-Datastructure
-  cd Contact-Manager-Trie-Datastructure
-  gcc main.cpp
-  ./a.out
+```
+# Usage
+- Options 1 : Download gcc compiler
+```
+cd Contact-Manager-Trie-Datastructure
+```
+```
+gcc main.cpp
+
+./a.out
 ```
 - Options 2 : Download CodeBloack::IDE
 <a href='https://www.codeblocks.org/'>here</a>
